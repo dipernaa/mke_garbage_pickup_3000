@@ -3,7 +3,7 @@
     <uses-permission android:name="android.permission.INTERNET" />
 
    <application
-        android:label="mke_garbage_pickup_3000"
+        android:label="MKE Garbage Pickup 3000"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
